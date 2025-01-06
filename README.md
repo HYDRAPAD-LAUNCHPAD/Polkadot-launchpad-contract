@@ -16,7 +16,7 @@ This repository contains the smart contract code for the **Launchpad** platform,
 
 ## Overview
 
-The **Launchpad Contract** is a smart contract written in Solidity that allows projects to conduct token sales and crowdfunding. The contract includes various mechanisms like whitelisting participants, controlling sale parameters, and ensuring secure token transfers during the sale.
+The **Launchpad Contract** is a smart contract written in Rust for Polkadot substrate, that allows projects to conduct token sales and crowdfunding. The contract includes various mechanisms like whitelisting participants, controlling sale parameters, and ensuring secure token transfers during the sale.
 
 This smart contract is designed to be flexible and can be customized for different types of fundraising events, including presales, ICOs, and token swaps.
 
